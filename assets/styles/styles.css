@@ -23,6 +23,13 @@ header {
   width: 100%;
 }
 
+.logo {
+  img {
+    width: 30%;
+    margin-top: 4px;
+  }
+}
+
 footer {
   background-color: #f2e9e4;
 
@@ -46,13 +53,6 @@ footer {
     width: 100px;
     height: 30px;
     margin-top: 20px;
-  }
-}
-
-.logo {
-  img {
-    width: 30%;
-    margin-top: 4px;
   }
 }
 
